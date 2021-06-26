@@ -8,7 +8,7 @@ In this part of my practise the following hypothesis were performed.
 Following tasks related to hypothesis testing and data visualization were done:
 - [x] Data visualization
     - [x] Line plot of release_years and durations
-    ![alt text](https://github.com/Crazz-Zaac/Investigating-netflix-movies/blob/master/assets/netflix-movie-durations-2011-2020.png?raw=true)
+    ![alt text](https://github.com/Crazz-Zaac/Investigating-netflix-movies/blob/master/assets/Netflix-movie-durations-2011-2020.png?raw=true)
     - [x] Histogram visualization 
     ![alt text](https://github.com/Crazz-Zaac/Investigating-netflix-movies/blob/master/assets/histogram.png?raw=true)
     - [x] Q-Q plot 
