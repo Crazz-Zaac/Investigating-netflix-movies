@@ -1,7 +1,8 @@
 # Investigating Netflix Movies and Guest Stars in The Office
 In this part of my practise the following hypothesis were performed.
 - [x] Visual inspection of data
-- [x] Filtering movies 
+- [x] Filtering movies
+- [x] Comparative analysis of year of release vs number of movies
 - [x] Comparative analysis of movie duration vs year of release
 
 ## Tasks included

@@ -1,7 +1,8 @@
 # Investigating Netflix Movies and Guest Stars in The Office
 In this part of my practise the following hypothesis were performed.
 - [x] Visual inspection of data
-- [x] Filtering movies 
+- [x] Filtering movies
+- [x]  
 - [x] Comparative analysis of movie duration vs year of release
 
 ## Tasks included
@@ -28,6 +29,6 @@ The ```color_data.csv``` contains color values used in the scatter plot
 You can clone the repository and practise for yourself.
 
 ## Credits 
-This is a part of Datacamp's - 
+This is a part of Datacamp's - Data Scientist with Python course
 
 <b>Thank you for your support ❤️</b>
